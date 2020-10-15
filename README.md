@@ -8,3 +8,6 @@
     HTML
     Sass
     JavaScript
+## Users
+ Business owners
+ Customers
